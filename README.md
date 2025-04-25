@@ -1,7 +1,5 @@
 # Sertifikasi Database Administrator
-====================================================================
-# Skema Prosedur Pengujian Backup
-# Skema Backup dan Pemulihan Database untuk Sistem Manajemen Inventaris
+# Skema Prosedur Backup dan Pemulihan Database untuk Sistem Manajemen Inventaris
 
 Berikut adalah skema komprehensif untuk backup database termasuk penjadwalan harian dan prosedur pengujian pemulihan data:
 
